@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on a startup project.<br>Happy to help any game developer with there game models
+Currently working on a startup project.<br>Happy to help any game developer with there game models and web developer with front-end as well as back-end
 
 
 ## 🌐 Socials:
