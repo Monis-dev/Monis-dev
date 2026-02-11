@@ -1,6 +1,8 @@
 # 💫 About Me:
 Currently working on a startup project.<br>Happy to help any game developer with there game models and web developer with front-end as well as back-end
 
+![dancing-duck-acegifcom-73](https://github.com/user-attachments/assets/4134b24a-5efb-40f6-a550-1103e58a4f69)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-monis-ahmed-516828369/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://in.pinterest.com/monisahmed015/) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://www.quora.com/profile/Monis-Ahmed-35) 
